@@ -80,6 +80,30 @@ a:hover {
     text-align: center;
 }
 
+#adventure{
+    color: aliceblue;
+}
+
+#adventure h1{
+    position: relative;
+    top: 115px;
+    left: 20px;
+}
+
+#learn h3{
+    color: blue;
+    position: relative;
+    top: 115px;
+    left: 350px;
+}
+
+#sideCard{
+    width: 480px;
+    height: 550px;
+    background-color: black;
+    opacity: 0.6;
+}
+
 /* about */
 
 #main {
@@ -96,7 +120,7 @@ a:hover {
 
 table {
     border: 1px black solid;
-    margin-bottom: 180px;
+    margin-bottom: 160px;
 }
 
 #leftCard{
