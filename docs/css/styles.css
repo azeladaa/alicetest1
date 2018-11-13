@@ -79,3 +79,52 @@ a:hover {
 .alignCenter {
     text-align: center;
 }
+
+/* about */
+
+#main {
+    margin-top: 31px;
+}
+
+.textCenter {
+    text-align: center;
+}
+
+.tableBorder {
+    border: 1px black solid;
+}
+
+table {
+    border: 1px black solid;
+    margin-bottom: 180px;
+}
+
+#leftCard{
+    padding: 16px;
+}
+
+.grSmallPadding {
+    padding-left: 19px;
+    padding-right: 19px;
+}
+
+.grBigPadding {
+    padding-left: 24px;
+    padding-right: 24px;
+}
+
+.grText {
+    line-height: 20px;
+}
+.alignRight {
+    text-align: right;
+}
+
+.contentMargin {
+    margin-left: 31px;
+    margin-right: 31px;
+}
+.contentText {
+    margin-left: 31px;
+}
+
