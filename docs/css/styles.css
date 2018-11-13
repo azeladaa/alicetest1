@@ -1,0 +1,81 @@
+body {
+    font-family: Helvetica, "Helvetica Neue", sans-serif;
+}
+
+#wrapper {
+    width: 960px;
+}
+
+#top {
+    height: 100px;
+    line-height: 100px;
+}
+
+#logo {
+    height: 100px;
+}
+
+#heroBanner {
+    height: 550px;
+    position: relative;
+    background-image: url("../images/adventure.jpg");
+    background-size: cover;
+}
+
+.clearfix {
+    clear: both;
+}
+
+.marginCenter {
+    margin-right: auto;
+    margin-left: auto;
+}
+
+
+#footer {
+    height: 100px;
+    line-height: 100px;
+    color: white;
+    background: black;
+}
+
+
+
+a {
+    text-decoration: none;
+}
+a:hover {
+    text-decoration: underline;
+}
+
+
+.displayInline {
+    display: inline;
+}
+
+
+.floatLeft {
+    float: left;
+}
+
+.clearMargin {
+    margin: 0px;
+}
+
+.grSmall {
+    width: 329px;
+}
+
+.grBig {
+    width: 600px;
+}
+
+
+.textRight {
+    text-align: right;
+}
+
+
+.alignCenter {
+    text-align: center;
+}
